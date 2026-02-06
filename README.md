@@ -11,7 +11,7 @@ i also enjoy competitive programming ([advent of code](https://github.com/code-p
 ## languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-prose&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="top languages" />
 </p>
 
 ## editor
