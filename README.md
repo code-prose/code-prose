@@ -3,7 +3,7 @@
 i'm a systems programmer who loves building things in rust.
 
 currently working on:
-- [**crafting interpreters**](https://github.com/code-prose/loxan).
+- [**crafting interpreters in Rust!**](https://github.com/code-prose/loxan).
 - [**s3tree**](https://github.com/code-prose/s3tree) — a rust project for working with S3
 
 upcoming:
