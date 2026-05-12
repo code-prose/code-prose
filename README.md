@@ -3,10 +3,11 @@
 i'm a systems programmer who loves building things in rust.
 
 currently working on:
-- [**crafting interpreters in Rust!**](https://github.com/code-prose/loxan).
+- [**The crafting interpreters Interpreter in Rust!**](https://github.com/code-prose/loxan).
 - [**s3tree**](https://github.com/code-prose/s3tree) — a rust project for working with S3
 
 upcoming:
+- [The crafting interpreters Compiler in C!**](https://github.com/code-prose/cloxan)
 - [arm-ball](https://github.com/code-prose/arm-ball) - a useless bouncing ball for m-series arch terminals
 
 recently completed:
