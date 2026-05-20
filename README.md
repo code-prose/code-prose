@@ -1,6 +1,6 @@
 # hey, i'm logan
 
-i'm a systems programmer who loves building things in rust.
+systems programmer who loves building in low-level languages.
 
 currently working on:
 - [**The crafting interpreters Interpreter in Rust!**](https://github.com/code-prose/loxan).
