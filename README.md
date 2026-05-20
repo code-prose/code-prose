@@ -7,7 +7,7 @@ currently working on:
 - [**s3tree**](https://github.com/code-prose/s3tree) — a rust project for working with S3
 
 upcoming:
-- [The crafting interpreters Compiler in C!**](https://github.com/code-prose/cloxan)
+- [The crafting interpreters Compiler in C!](https://github.com/code-prose/cloxan)
 - [arm-ball](https://github.com/code-prose/arm-ball) - a useless bouncing ball for m-series arch terminals
 
 recently completed:
