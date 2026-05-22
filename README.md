@@ -5,7 +5,7 @@ systems programmer who loves building in low-level languages.
 currently working on:
 - [**The crafting interpreters Interpreter in Rust!**](https://github.com/code-prose/loxan).
 - [**s3tree**](https://github.com/code-prose/s3tree) — a rust project for working with S3
-- [**HFT style orderbook**](https://github.com/code-prose/cookbook)
+- [**Backtesting Engine**](https://github.com/code-prose/cookbook)
 
 upcoming:
 - [The crafting interpreters Compiler in C!](https://github.com/code-prose/cloxan)
