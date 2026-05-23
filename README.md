@@ -6,16 +6,11 @@ currently working on:
 - [**The crafting interpreters Interpreter in Rust!**](https://github.com/code-prose/loxan).
 - [**s3tree**](https://github.com/code-prose/s3tree) — a rust project for working with S3
 - [**Backtesting Engine**](https://github.com/code-prose/cookbook)
+- [**rungine**](https://github.com/code-prose/rungine) — a TF-IDF search engine built from scratch in rust, with PDF parsing, a custom lexer, and diesel-backed storage
 
 upcoming:
 - [The crafting interpreters Compiler in C!](https://github.com/code-prose/cloxan)
 - [arm-ball](https://github.com/code-prose/arm-ball) - a useless bouncing ball for m-series arch terminals
-
-recently completed:
-- [**rungine**](https://github.com/code-prose/rungine) — a TF-IDF search engine built from scratch in rust, with PDF parsing, a custom lexer, and diesel-backed storage
-
-
-i also enjoy competitive programming ([advent of code](https://github.com/code-prose/advent-of-code-2025)) and working through language deep-dives like [rustlings](https://github.com/code-prose/rustlings)
 
 ## languages
 
