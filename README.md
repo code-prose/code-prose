@@ -6,6 +6,7 @@ currently working on:
 - [**The crafting interpreters Interpreter in Rust!**](https://github.com/code-prose/loxan).
 - [**s3tree**](https://github.com/code-prose/s3tree) — a rust project for working with S3
 - [**rungine**](https://github.com/code-prose/rungine) — a TF-IDF search engine built from scratch in rust, with PDF parsing, a custom lexer, and diesel-backed storage
+- [**std implementations**](https://github.com/code-prose/std-implementations/) - Writing C++ stdlib implementations from scratch
 
 upcoming:
 - [The crafting interpreters Compiler in C!](https://github.com/code-prose/cloxan)
