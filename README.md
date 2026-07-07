@@ -3,7 +3,6 @@
 systems programmer who loves building in low-level languages.
 
 currently working on:
-- [**PII Parser**](https://github.com/code-prose/canary) - PII Parsing engine that leverages a 2 pass approach with SIMD vectorization to increase through-put
 - [**The crafting interpreters Interpreter in Rust!**](https://github.com/code-prose/loxan).
 - [**rungine**](https://github.com/code-prose/rungine) — a TF-IDF search engine built from scratch in rust, with PDF parsing, a custom lexer, and diesel-backed storage
 - [**s3tree**](https://github.com/code-prose/s3tree) — a rust project for working with S3
