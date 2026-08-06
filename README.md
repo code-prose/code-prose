@@ -5,6 +5,7 @@ systems programmer who loves building in low-level languages.
 currently working on:
 - [**The crafting interpreters Interpreter in Rust!**](https://github.com/code-prose/loxan).
 - [**canary**](https://github.com/code-prose/canary) - a c++ PII parsing engine
+- [**Backtesting Engine**](https://github.com/code-prose/cookbook) - Revisiting for optimizations
 
 always in progress:
 - [**std-implementation**](https://github.com/code-prose/std-implementations) - C++ std lib-style implementations
@@ -14,7 +15,6 @@ upcoming:
 
 
 recently completed:
-- [**Backtesting Engine**](https://github.com/code-prose/cookbook)
 - [**RingBuf**](https://github.com/code-prose/RingBuf)
 - [**rungine**](https://github.com/code-prose/rungine) — a TF-IDF search engine built from scratch in rust, with PDF parsing, a custom lexer, and diesel-backed storage
 
