@@ -4,7 +4,6 @@ systems programmer who loves building in low-level languages.
 
 currently working on:
 - [**The crafting interpreters Interpreter in Rust!**](https://github.com/code-prose/loxan).
-- [**canary**](https://github.com/code-prose/canary) - a c++ PII parsing engine
 - [**Backtesting Engine**](https://github.com/code-prose/cookbook) - Revisiting for optimizations
 
 always in progress:
@@ -12,6 +11,7 @@ always in progress:
 
 upcoming:
 - [The crafting interpreters Compiler in C!](https://github.com/code-prose/cloxan)
+- [**canary**](https://github.com/code-prose/canary) - a c++ PII parsing engine
 
 
 recently completed:
